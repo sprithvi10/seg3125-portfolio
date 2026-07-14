@@ -1,8 +1,5 @@
-# Prithviraj Sowdermett's Portfolio
-SEG3125 Analysis and Design of User Interfaces at uOttawa, Summer 2026
-
 # Overview
-Personal portfolio built for Assignment 1. Showcases my background and serves as a hub for the 4 design case studies I will produce throughout the semester.
+Welcome to the repository for my personal portfolio! This site is designed to showcase my journey, technical skills, and featured projects. It is built to serve as an interactive resume for recruiters and collaborators.
 
-# Link to Hosted Website
+# Link to Prithviraj Sowdermett's Portfolio Website:
 https://sprithvi10.github.io/seg3125-portfolio/ 
